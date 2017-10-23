@@ -1,4 +1,12 @@
-# Example Progress Journal
+# My Progress Journal
+
+## Week 3 (Oct 24)
+
++ The data set I am propose to use in my project is the Medical Appointment No Shows data set. [Here](https://www.kaggle.com/joniarroba/noshowappointments/version/5) (my analysis page will be added) is the data.
++ I haven't find a group yet.
+
+### Udacity Update 
+I finished first 2 lessons on the Udacity course and continuing 3rd lesson. I finished almost all practices. 
 
 ## Week 2 (Oct 10)
 
