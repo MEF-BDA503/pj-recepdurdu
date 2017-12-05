@@ -1,5 +1,6 @@
 # My Progress Journal
-
+### Assignment
++ [Here](files/diamonds.html) you can find my unfinished diamond price prediction model. This assignment is not yet complete because I couldn't get how to build a prediction model with R and I know I am late to finish it. But still I will work on it to understand how to apply a prediction model in R! Thanks.
 ## Week 3 (Oct 24)
 
 + [Here](files/data_show.html) is my explarotary analysis on Medical Appointment No Shows data set.
